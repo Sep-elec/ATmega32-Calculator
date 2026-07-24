@@ -27,5 +27,9 @@
 
 ---
 
-## Simulation
-![Proteus Simulation](Images/Calculator.png)
+## Simulation Video
+
+[![Watch the simulation](Images/Calculator.png)](https://youtu.be/bjaBHHBPmA4)
+
+Or watch directly on YouTube:  
+**https://youtu.be/bjaBHHBPmA4**
