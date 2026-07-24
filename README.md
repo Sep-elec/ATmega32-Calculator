@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![ATmega32 Calculator Simulation](Images/CCalculator.png)
+  ![ATmega32 Calculator Simulation](Images/Calculator.png)
 
   **A scientific calculator implemented using ATmega32 microcontroller**
 
@@ -28,4 +28,4 @@
 ---
 
 ## Simulation
-![Proteus Simulation](Images/CCalculator.png)
+![Proteus Simulation](Images/Calculator.png)
